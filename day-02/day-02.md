@@ -1,5 +1,5 @@
 # 📁 Day 2: WSL and Basic Linux Commands Practice
-**Date**: 23/04/2025
+**Date**: 26/04/2025
 
 Today, I continued my Linux journey using WSL (Windows Subsystem for Linux). Below is a summary of the commands and concepts I practiced, along with brief descriptions and screenshots for each activity.
 
