@@ -1,7 +1,7 @@
 # Day 1: navigating the Linux file system
   **Date**: 25-04-2025
 
-  # commands practiced: 
+  # commands practiced::
    - 'pwd'
     - 'ls'
     - 'cd'
