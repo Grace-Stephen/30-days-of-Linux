@@ -1,5 +1,5 @@
 # 📅 Day 3 - Navigating Linux Directories and Using the `tree` Command
-**Date**: 24/04/2025
+**Date**: 27/04/2025
 
 ## Summary
 
