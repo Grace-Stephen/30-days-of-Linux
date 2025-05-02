@@ -67,5 +67,5 @@ This day gave me more confidence in using Linux commands, and I learned how even
 
 ## 📌 Next Steps
 
-I’ll continue with file and directory management, permissions, and practicing advanced piping and filtering.
+I’ll continue with file and directory management, permissions, and practicing advanced piping and filtering. 
 
