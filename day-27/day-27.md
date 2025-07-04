@@ -70,7 +70,7 @@ Used this command to inspect:
 tar -tf ~/backup/admin-project_2025-07-02_14-46-26.tar.gz
 ```
 
----
+--
 
 ## 📘 What I Learned
 - How to safely check if a directory exists using `if [ ! -d "$source_dir" ]`
