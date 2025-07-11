@@ -1,4 +1,4 @@
-# ✅ Day 30 of Linux — User Creation, Group Assignment & Home Backup Automation
+# ✅ Day 30 of Linux — User Creation Via Script, Group Assignment & Home Directory Backup Automation
 
 On the final day of this Linux journey, I automated a common sysadmin task — **bulk user creation** with added functionality to set passwords, assign groups, and archive each user’s home directory. This simulated a real-world scenario where system administrators onboard multiple users at once.
 
