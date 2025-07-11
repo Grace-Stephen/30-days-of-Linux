@@ -1,10 +1,12 @@
+# 🐧 30 Days of Linux – Completed ✅
 
-# 🐧 30 Days of Linux – System Admin Practice
+This repo documents my 30 Days of Linux challenge where I practiced daily Linux tasks to build strong foundational system administration skills. Although the journey took over 3 months (alongside cloud computing studies), I stayed consistent and finished strong!
 
-Welcome! This repo contains my 30-day Linux journey to sharpen my system administration skills.
+📅 **Start:** April 2025  
+🏁 **Completed:** July 2025  
+📁 Covered topics: File navigation, permissions, users/groups, process and package management, networking, cron jobs, compression, logging, and bash scripting.
 
-## 🔍 Overview
-I'm following a self-paced 30-day plan to practice essential Linux commands, file management, permissions, user handling, and more.
+> ✅ See breakdown by day in folders above ⬆️
 
 Each day is logged with:
 - Commands used
@@ -13,7 +15,7 @@ Each day is logged with:
 - Reflections
 
 ## 🔧 Tools
-- Ubuntu 22.04
+- WSL Ubuntu
 - Bash
 - VS Code
 - Git & GitHub
